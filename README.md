@@ -1,6 +1,6 @@
 # Description
 
-task for VISTA
+task for VISTA group
 
 ## Changelog
 
