@@ -1,3 +1,3 @@
-# Opis repozytorium
+# Repo description
 
-zadanie dla VISTA
+other way
