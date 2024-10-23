@@ -1,4 +1,4 @@
-# Description
+# Repo description
 
 task for VISTA group
 
@@ -12,3 +12,4 @@ task for VISTA group
 ### Version 1.0.0
 
 - First version of the project.
+
