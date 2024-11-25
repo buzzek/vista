@@ -20,8 +20,9 @@ jobs:
 
       # Validate PHP syntax
       - name: Validate PHP Syntax
-        run: |
-          find . -type f -name "*.php" -exec php -l {} \;
+          run: |
+            find . -type f -name "*.php" -exec php -l {} \; || exit 1
+          continue-on-error: false # (default behavior, fails the workflow on error)
 
       # Perform analysis using SonarCloud
       - name: SonarCloud Scan
