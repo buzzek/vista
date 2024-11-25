@@ -6,7 +6,9 @@
 </footer>
 add .
 <?php wp_footer();
-
+ bug
+ bug
+ bug
 </body>
 
 </html>
