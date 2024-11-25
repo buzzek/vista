@@ -1,0 +1,65 @@
+/*
+*
+* Usefull varaibles for every part of styles.
+*
+*/
+
+/*
+*
+* Usefull variables
+*
+*/
+
+$img-path: "../../dist/img/";
+
+/*
+*
+* Typography variables
+*
+*/
+
+$font-headers: "Krona One", sans-serif;
+$font-text: "Krona One", sans-serif;
+
+/*
+*
+* Themeplate colors
+*
+*/
+
+$primary-color: #5b00db;
+$secondary-color: #9e01ff;
+$back-color: #727272;
+$font-color: #fff;
+$background-color: #101010;
+/*
+*
+* Grid variables
+*
+*/
+
+$container-width: 100%;
+$box-width: 1191px;
+$wide-width: 1432px;
+$max-width: 100%; //1512px
+$col-padding: 2.5rem;
+$col-padding-mobile: 2rem;
+$font-size: 10px;
+
+/*
+*
+* Breakpoints used in mixins for media query
+*
+*/
+
+$breakpoints: (
+    "phoneS": 350px,
+    "phoneM": 420px,
+    "phoneL": 576px,
+    "tablet": 768px,
+    "tabletL": 992px,
+    "laptop": 1200px,
+    "laptopL": 1441px,
+    "desktop": 1620px,
+    "desktopL": 1920px
+);

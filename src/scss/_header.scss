@@ -1,0 +1,44 @@
+/*
+*
+* Styles only for header
+*
+*/
+
+.header {
+	display: flex;
+
+	&__content {
+		display: flex;
+		align-items: center;
+		padding: 20px 0;
+		&--logo {
+			a {
+				display: flex;
+			}
+			.header-logo {
+				width: 155px;
+				height: 49px;
+				pointer-events: none;
+			}
+		}
+		&--nav {
+			display: flex;
+			justify-content: space-between;
+			flex-grow: 2;
+			margin-left: 54px;
+			ul {
+				display: flex;
+				gap: 53px;
+				list-style: none;
+				align-items: center;
+				li {
+					a {
+						@extend %nav-font;
+					}
+				}
+			}
+		}
+		&--mobile {
+		}
+	}
+}

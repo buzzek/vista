@@ -1,0 +1,778 @@
+{
+    "key": "group_6554c6c9a5347",
+    "title": "Theme options - woocommerce",
+    "fields": [
+        {
+            "key": "field_65608fb5c4bae",
+            "label": "Cart empty page",
+            "name": "cart_empty_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_65608fb5c4baf",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_656097b5a5ddf",
+            "label": "Cart page",
+            "name": "cart_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_656097b5a5de0",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_6565b6ef8ad59",
+            "label": "Checkout page",
+            "name": "checkout_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_6565b6ef8ad5a",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_65664c8b98373",
+            "label": "Order received page",
+            "name": "order_received_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_65664c8b98374",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_65670478e2d06",
+            "label": "Order received text",
+            "name": "order_received_text",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_65670478e2d07",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_6567161bd5496",
+            "label": "Login page",
+            "name": "login_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_6567161bd5497",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_65671625d5498",
+            "label": "Register page",
+            "name": "register_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_65671625d5499",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_65675592d4cb1",
+            "label": "Myaccount page",
+            "name": "myaccount_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_65675592d4cb2",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_6554c7112018b",
+            "label": "Category product page",
+            "name": "category_product_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_6554c7112018c",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_656e1d312405c",
+            "label": "Search empty page",
+            "name": "search_empty_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_656e1d312405d",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_656e1d4926f4e",
+            "label": "Search page",
+            "name": "search_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_656e1d4926f4f",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_658c1bc35d5c4",
+            "label": "Blog page",
+            "name": "blog_page",
+            "aria-label": "",
+            "type": "group",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "layout": "block",
+            "sub_fields": [
+                {
+                    "key": "field_658c1bc35d5c5",
+                    "label": "Reusable blocks",
+                    "name": "reusable_blocks",
+                    "aria-label": "",
+                    "type": "select",
+                    "instructions": "",
+                    "required": 0,
+                    "conditional_logic": 0,
+                    "wrapper": {
+                        "width": "",
+                        "class": "",
+                        "id": ""
+                    },
+                    "choices": {
+                        "1330": "Single product &#8211; icons",
+                        "1285": "blog",
+                        "1224": "sales restrictions &#8211; contact us",
+                        "1126": "Search empty",
+                        "1123": "Search",
+                        "1121": "choose a product category",
+                        "1095": "Single post footer",
+                        "1071": "404",
+                        "1065": "Shop",
+                        "1064": "Register",
+                        "1063": "Product category",
+                        "1062": "Order received text",
+                        "1061": "Order received",
+                        "1060": "Myaccount",
+                        "1059": "Login",
+                        "1058": "Create a free account",
+                        "1057": "Checkout",
+                        "1056": "Cart empty",
+                        "1055": "Cart"
+                    },
+                    "default_value": false,
+                    "return_format": "value",
+                    "multiple": 0,
+                    "translations": "copy_once",
+                    "allow_null": 0,
+                    "ui": 0,
+                    "ajax": 0,
+                    "placeholder": ""
+                }
+            ]
+        },
+        {
+            "key": "field_65cb629956571",
+            "label": "Email footer",
+            "name": "email_footer_sign",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1,
+            "delay": 0
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options-woocommerce-options"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1707827891
+}

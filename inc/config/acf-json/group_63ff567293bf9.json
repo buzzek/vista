@@ -1,0 +1,69 @@
+{
+    "key": "group_63ff567293bf9",
+    "title": "Theme options - 404",
+    "fields": [
+        {
+            "key": "field_6537a271d2795",
+            "label": "Reusable blocks",
+            "name": "reusable_blocks",
+            "aria-label": "",
+            "type": "select",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "choices": {
+                "1330": "Single product &#8211; icons",
+                "1285": "blog",
+                "1224": "sales restrictions &#8211; contact us",
+                "1126": "Search empty",
+                "1123": "Search",
+                "1121": "choose a product category",
+                "1095": "Single post footer",
+                "1071": "404",
+                "1065": "Shop",
+                "1064": "Register",
+                "1063": "Product category",
+                "1062": "Order received text",
+                "1061": "Order received",
+                "1060": "Myaccount",
+                "1059": "Login",
+                "1058": "Create a free account",
+                "1057": "Checkout",
+                "1056": "Cart empty",
+                "1055": "Cart"
+            },
+            "default_value": false,
+            "return_format": "value",
+            "multiple": 0,
+            "allow_null": 0,
+            "ui": 0,
+            "ajax": 0,
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options-404-page"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1707825714,
+    "acfml_field_group_mode": "advanced"
+}

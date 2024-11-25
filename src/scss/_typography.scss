@@ -1,0 +1,33 @@
+/*
+*
+* Styles only for typography - text, headers buttons etc.
+* Extended by styles from extend-rules.scss
+*
+*/
+
+html {
+    font-size: $font-size;
+}
+
+h1 {
+    @extend %h1;
+}
+
+h2 {
+    @extend %h2;
+}
+h3 {
+    @extend %h3;
+}
+h4 {
+    @extend %h4;
+}
+
+body {
+    font-family: $font-text;
+    font-size: $font-size;
+    color: $font-color;
+}
+p, a , td, th {
+    @extend %text;
+}

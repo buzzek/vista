@@ -1,0 +1,19 @@
+/*
+*
+* Only for imported parts of styles.
+*
+*/
+
+@import "variables"; // Usefull varaibles for every part of styles.
+@import "normalize"; // Just for clearing 'bad' browser codes.
+@import "responsive"; // Styles only for responsive staff.
+@import "animations"; // Styles only for animations
+@import "extend-rules"; // Styles that can be inherited in other classes
+@import "typography"; // Styles only for typography - text, headers buttons etc.
+@import "grid"; // Styles only for greed created by Brave New
+@import "buttons"; // Styles only for buttons
+@import "shared-classes"; // Styles with repeating, reusable classes
+@import "custom-classes"; // Styles with repeating, rather short, reusable custom classes (only to this particular theme)
+
+@import "header"; // Styles only for header
+@import "footer"; // Styles only for footer

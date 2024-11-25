@@ -1,0 +1,211 @@
+{
+    "key": "group_64104f20e7969",
+    "title": "Theme options - popup",
+    "fields": [
+        {
+            "key": "field_66015fa408a63",
+            "label": "Normal popup",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_64104f495b3ee",
+            "label": "Title",
+            "name": "popup_title",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Add title to your popup",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_64104f535b3ef",
+            "label": "Text",
+            "name": "popup_text",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "Add title to your popup",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1,
+            "delay": 0
+        },
+        {
+            "key": "field_64104f625b3f0",
+            "label": "Button",
+            "name": "popup_button",
+            "aria-label": "",
+            "type": "link",
+            "instructions": "Add button to your popup",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array"
+        },
+        {
+            "key": "field_641050f8ce099",
+            "label": "Status",
+            "name": "popup_status",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui_on_text": "Show",
+            "ui_off_text": "Hide",
+            "ui": 1
+        },
+        {
+            "key": "field_66015fbe08a64",
+            "label": "Maintenance popup",
+            "name": "",
+            "aria-label": "",
+            "type": "tab",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "placement": "top",
+            "endpoint": 0
+        },
+        {
+            "key": "field_6601604d08a65",
+            "label": "Title",
+            "name": "popup_maintenance_title",
+            "aria-label": "",
+            "type": "text",
+            "instructions": "Add title to your popup",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "maxlength": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": ""
+        },
+        {
+            "key": "field_6601605008a66",
+            "label": "Text",
+            "name": "popup_maintenance_text",
+            "aria-label": "",
+            "type": "wysiwyg",
+            "instructions": "Add title to your popup",
+            "required": false,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "tabs": "all",
+            "toolbar": "full",
+            "media_upload": 1,
+            "default_value": "",
+            "delay": 0
+        },
+        {
+            "key": "field_6601605408a67",
+            "label": "Button",
+            "name": "popup_maintenance_button",
+            "aria-label": "",
+            "type": "link",
+            "instructions": "Add button to your popup",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "return_format": "array"
+        },
+        {
+            "key": "field_6601605808a68",
+            "label": "Status",
+            "name": "popup_maintenance_status",
+            "aria-label": "",
+            "type": "true_false",
+            "instructions": "",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui_on_text": "Show",
+            "ui_off_text": "Hide",
+            "ui": 1
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "acf-options-popup"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "show_in_rest": 0,
+    "modified": 1711439943
+}
